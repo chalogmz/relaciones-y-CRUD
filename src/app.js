@@ -20,4 +20,4 @@ app.use('/', indexRouter);
 app.use(moviesRoutes);
 app.use(genresRoutes);
 
-app.listen('1001', () => console.log('Servidor corriendo en el puerto 1001'));
+app.listen('1005', () => console.log('Servidor corriendo en el puerto 1005'));
